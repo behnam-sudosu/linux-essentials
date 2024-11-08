@@ -79,7 +79,7 @@ Linux Commands
 	
 	----------------------------------------------------------------------------
 	
-Network
+--Network
 	ping host ===>> Ping host and output results
 	whois domain ===>> Get whois information for domains
 	dig domain ===>> Get DNS information for domain
@@ -89,7 +89,7 @@ Network
 	
 	----------------------------------------------------------------------------
 	
-Shortcuts
+--Shortcuts
 	ctrl+c ===>> Halts the current command
 	ctrl+z ===>> Stop the current command, resume with fg in the foreground or bg in the background
 	ctrl+d ===>> Logout the current session, similar to exit
